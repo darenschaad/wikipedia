@@ -1,0 +1,13 @@
+.container {
+  border: 1px dotted black;
+}
+
+
+#sideBarLeftContainer {
+    margin-top: 30px;
+}
+
+#sideBarLeft {
+  padding: 0px 20px 0px 20px;
+  border-right: 1px dotted black;
+}
